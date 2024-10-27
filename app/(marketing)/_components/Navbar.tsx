@@ -33,7 +33,7 @@ return (
             </SignInButton>
               <SignInButton mode="modal">
               <Button  size='sm'>
-                Get Joshion free
+                Free AraNotes
               </Button>
             </SignInButton>
           </>
