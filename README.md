@@ -36,7 +36,7 @@ pnpm install
 ```
 
 
-### Passo 1.3 - Executar o projeto (Executar o backend)
+### Passo 1.3 - Executar o projeto
 
 ```
 pnpm dev
