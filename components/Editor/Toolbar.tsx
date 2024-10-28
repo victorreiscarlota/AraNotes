@@ -10,7 +10,7 @@ import { Doc } from "@/convex/_generated/dataModel"
 import { Button } from "@/components/ui/button"
 import { api } from "@/convex/_generated/api"
 
-import { IconPicker } from "./icon-picker"
+import { IconPicker } from "@/components/icon-picker"
 
 interface ToolbarProps {
   initialData:Doc<'documents'>
